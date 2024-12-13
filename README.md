@@ -12,7 +12,7 @@ By using this tool you can make your code unreadable to anyone. But its still ex
     $ apt update -y && apt upgrade -y
     $ apt install python -y
     $ apt install git -y
-    $ git clone https://github.com/WH1T3-E4GL3/white-obfuscate.git
+    $ git clone https://github.com/whxitte/white-obfuscate.git
     $ cd white-obfuscate
     $ pip install -r requirements.txt
     $ git pull
